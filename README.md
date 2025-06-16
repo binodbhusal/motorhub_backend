@@ -75,7 +75,7 @@ You can use this URL address to consump data from our API using [localy](localho
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
- Click on this [Motorhub Live Demo](https://motorhub.netlify.app/) to view the live-demo of project. 
+Currently not available. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
